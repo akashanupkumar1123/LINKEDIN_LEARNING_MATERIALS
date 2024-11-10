@@ -1,0 +1,2 @@
+knime://knime.workflow/data.all
+file:/Users/keithmccormick/Desktop/Exercise%20Files/Resources/train.csv

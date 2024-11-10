@@ -1,0 +1,21 @@
+
+{
+    "version":"3.7.1.v201901281154",
+    "created":"2019-04-16 10:21",
+    "nodestats":{
+        "nodes":[
+        ],
+        "metaNodes":{
+        },
+        "wrappedNodes":{
+        }
+    },
+    "uptime":47672,
+    "workflowsOpened":1,
+    "remoteWorkflowsOpened":0,
+    "launches":1,
+    "lastApplicationID":"org.knime.product.KNIME_APPLICATION",
+    "timeSinceLastStart":47672,
+    "crashes":0,
+    "properlyShutDown":true
+}
